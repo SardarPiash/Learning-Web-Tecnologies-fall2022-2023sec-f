@@ -10,8 +10,8 @@
 </student>
 
 <student>
-<SL_NO>23</SL_NO>
-<NAME>John Carter</NAME>
+<SL_NO>29</SL_NO>
+<NAME>Bob Marshal </NAME>
 <ADMISSION_DATE>
 <dd>13</dd>
 <mm>01</mm>
@@ -21,7 +21,7 @@
 
 <student>
 <SL_NO>29</SL_NO>
-<NAME>Bob Marshal</NAME>
+<NAME>Clark Kent</NAME>
 <ADMISSION_DATE>
 <dd>17</dd>
 <mm>06</mm>
